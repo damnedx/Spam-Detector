@@ -1,7 +1,6 @@
 '''
 Created on 1 avr. 2016
 
-@author: Kodstok
 '''
 
 def normalize(data):
